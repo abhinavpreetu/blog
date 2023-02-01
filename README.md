@@ -1,0 +1,2 @@
+# blog
+Thought scratchpad
